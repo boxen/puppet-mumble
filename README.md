@@ -5,7 +5,7 @@ Install [Mumble](http://mumble.sourceforge.net/), an open source voice chat soft
 ## Usage
 
 ```puppet
-include screenhero
+include mumble
 ```
 
 ## Required Puppet Modules
