@@ -4,6 +4,7 @@ GEM
     addressable (2.3.5)
     ansi (1.4.3)
     boxen (1.5.2)
+    boxen (1.4.2)
       ansi (~> 1.4)
       hiera (~> 1.0)
       highline (~> 1.6)
