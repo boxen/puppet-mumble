@@ -13,7 +13,7 @@ include mumble
 or with version specification
 
 ```puppet
-classe {'mumble':
+class {'mumble':
   version => '1.2.6',
 }
 ```
